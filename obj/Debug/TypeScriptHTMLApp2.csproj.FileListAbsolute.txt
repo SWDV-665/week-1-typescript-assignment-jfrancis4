@@ -1,0 +1,6 @@
+C:\Users\joshu\source\repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\joshu\source\repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.dll
+C:\Users\joshu\source\repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.pdb
+C:\Users\joshu\source\repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp2.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\joshu\source\repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp1.pdb
